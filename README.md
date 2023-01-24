@@ -1,1 +1,2 @@
-# MachineLearning_3_Unsupervised.Learning-Recommenders.Reinforcement.Learning
+# Unsupervised Learning, Recommenders, Reinforcement Learning
+## (Coursera - Machine Learning Specialization)
